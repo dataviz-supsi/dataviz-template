@@ -1,4 +1,4 @@
-SUPSI 2024-25  
+SUPSI 2025-26  
 Data Visualization course, C-D3202E 
 Teacher Giovanni Profeta
 
@@ -6,7 +6,7 @@ Teacher Giovanni Profeta
 # Project title
 Authors: [Author n. 1](https://github.com/giovannipro), [Author n. 2](https://github.com/giovannipro), [Author n. 3](https://github.com/giovannipro)
 
-[Project title](https://dataviz-supsi.github.io/2024/template/)
+[Project title](https://dataviz-supsi.github.io/dataviz-template/)
 
 
 ## Abstract
