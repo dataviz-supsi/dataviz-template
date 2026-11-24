@@ -1,4 +1,4 @@
-SUPSI 2025-26  
+SUPSI 2026-27  
 Data Visualization course, C-D3202E 
 Teacher Giovanni Profeta
 

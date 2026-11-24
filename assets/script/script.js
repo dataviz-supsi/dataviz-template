@@ -81,6 +81,7 @@ function highlight(){ // dv1
         })
     })
 }
+highlight();
 
 // =================
 // add the buttons that switch between different images
@@ -108,13 +109,5 @@ BUTTON2.addEventListener("click", () => {
 
     BUTTON1.style.opacity = 1;
     BUTTON2.style.opacity = 0.4;
-})
-
-
-// =================
-// page (and iframe) load
-
-window.addEventListener("load", function(){
-    highlight()
 })
 
