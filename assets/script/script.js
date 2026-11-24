@@ -12,23 +12,23 @@ let result = n1 + n2
 // =================
 // select HTML elements
 
-const dv1 = document.getElementById("dataviz_01")
-const sections = document.getElementsByClassName("no_margin")
+// const dv1 = document.getElementById("dataviz_01")
+// const sections = document.getElementsByClassName("no_margin")
 
 
 
 // =================
 // edit the DOM
 
-const title = document.querySelector("h1")
-const subtitle = document.querySelector("h2")
+// const title = document.querySelector("h1")
+// const subtitle = document.querySelector("h2")
 
 
 // =================
 // edit css
 
-subtitle.style.color = "gray"
-subtitle.style.fontSize = "2rem"
+// subtitle.style.color = "gray"
+// subtitle.style.fontSize = "2rem"
 
 
 // =================
@@ -63,6 +63,7 @@ function listener(element){
 
 function highlight(){ // dv1
 
+    const dv1 = document.getElementById("dataviz_01")
     const flows = dv1.contentDocument.documentElement.getElementById("flows").querySelectorAll("g")
 
     flows.forEach(function(el){
@@ -81,7 +82,7 @@ function highlight(){ // dv1
         })
     })
 }
-highlight();
+// highlight();
 
 // =================
 // add the buttons that switch between different images
